@@ -43,11 +43,12 @@ Review Request Bot is a lightweight Node.js service that listens to GitLab merge
 Update the config.json file to map team identifiers to Slack channels. For example:
     ```code
     {
-    "team1": {
-       "slack_channel": "#team1_channel"
-    },
-    "team2": {
-       "slack_channel": "#team2_channel"
+      "team1": {
+        "slack_channel": "#team1_channel"
+      },
+      "team2": {
+        "slack_channel": "#team2_channel"
+      }
     }
    ```
 ---
