@@ -1,0 +1,8 @@
+{
+  "team1": {
+    "slack_channel": "#team1-reviews"
+  },
+  "team2": {
+    "slack_channel": "#team2-reviews"
+  }
+}
